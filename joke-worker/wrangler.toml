@@ -1,0 +1,7 @@
+name = "sparkling-dust-9b63"
+main = "src/index.js"
+compatibility_date = "2024-11-07"
+workers_dev = true
+
+[ai]
+binding = "AI"
